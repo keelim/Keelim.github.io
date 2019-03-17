@@ -132,7 +132,7 @@ author:
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
     - label: "naver/blog"
-      icon: "fab fa-fw fa-instagram"
+      icon: ""
       url: "https://blog.naver.com/h00335"
 # Site Footer
 footer:
