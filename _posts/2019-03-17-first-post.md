@@ -5,6 +5,9 @@ categories: jekyll update
 ---
 Test
 
-Check out the [github][github] 
+Check out the 
+[github][github] 
+[blog][blog]
 
 [github]: https://github.com/keelim
+[blog]: https://blog.naver.com/h00335
