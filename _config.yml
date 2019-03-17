@@ -131,7 +131,9 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
-
+    - label: "naver/blog"
+      icon: "default"
+      url: "https://blog.naver.com/h00335"
 # Site Footer
 footer:
   links:
