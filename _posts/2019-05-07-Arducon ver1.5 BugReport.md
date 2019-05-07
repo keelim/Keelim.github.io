@@ -5,7 +5,6 @@ categories: BugReport
 ---
 
 ## Version 1.5
-===Andorid===
 1. SettingPreferece 설정에서의 오류 발생
     - App이 Listener 를 통하여 실행시 바로 종료되는 현상 -> 해결
 2. NavigationDrawerItemSelectedListener 동작 x
