@@ -1,9 +1,3 @@
-#---
-title: "Version 2.0.0 Bugreport"
-date: 2019-05-22 23:23:23 -0400
-categories: BugReport
----
-
 ## Version 2.0.0
 1. firebase 를 통한 authentication 구현
     - Google login 

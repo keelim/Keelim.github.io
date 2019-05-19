@@ -1,9 +1,3 @@
-#---
-title: "Version 1.7 Bugreport"
-date: 2019-05-07 23:23:23 -0400
-categories: BugReport
----
-
 ## Version 1.7
 1. 버그 리포트 사용에 있어서 편의성 증대
     - 웹뷰 페이지 사용에서 크롬 -> 기본 넘어가는 현상 제거
